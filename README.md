@@ -78,6 +78,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [nethogs](https://github.com/raboof/nethogs) 'net top' tool
 - [netscanner](https://github.com/Chleba/netscanner) Network scanner
 - [nvtop](https://github.com/Syllo/nvtop) GPUs process monitoring for AMD, Intel and NVIDIA
+- [otel-pocket](https://github.com/kanchingyg/otel-pocket) Local OTLP trace collector with terminal flamegraphs and N+1 SQL detection
 - [oryx](https://github.com/pythops/oryx) A TUI for sniffing network traffic using eBPF
 - [otel-tui](https://github.com/ymtdzzz/otel-tui) A terminal OpenTelemetry viewer
 - [Planor](https://github.com/mrusme/planor) The Cloud Aviator, dashboard for AWS, Vultr, Heroku, ...
@@ -118,6 +119,9 @@ There's a lot of cool projects here that I have no association with. Run them at
 </details>
 
 <details open><summary><h2>Development</h2></summary>
+
+- [portgraph](https://github.com/kanchingyg/portgraph) Local port topology TUI for listening processes, Docker maps, and local LLM servers
+
 
 - [act3](https://github.com/dhth/act3) Glance at the last 3 runs of your Github Actions
 - [amtui](https://github.com/pehlicd/amtui/) Alertmanager TUI - Your Terminal Companion for Alertmanager
